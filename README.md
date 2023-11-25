@@ -1,3 +1,3 @@
 # Bro Codes
-### https://hanzalatafzeel.github.io/broscodes/
+### https://danishcodebase.github.io/broscodes/
 
